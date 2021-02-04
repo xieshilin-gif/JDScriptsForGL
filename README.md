@@ -2,6 +2,8 @@
 
 ## 特别声明: 
 
+* 看到Fork数量从十几涨到三十，其实大家真的没有必要fork的，都经历了两次库404的事情了，我相信目前会用这个库的人应该也明白了，我只是搞来自己研究测试的，不想库消失，还请大家不要fork。弄到最后真的都玩不到。
+
 * 本仓库发布的MyActions项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
 * 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
@@ -31,4 +33,4 @@
 (时效性较快)lxk0301-Secrets配置[点击查看](https://gitee.com/lxk0301/jd_scripts/blob/master/githubAction.md)
 
 
-> 具体如何取 cookie 如何配置,可参考 [lxk0301 的获取京东Cookies教程](https://gitee.com/lxk0301/jd_scripts/blob/master/githubAction.md#%E4%BA%AC%E4%B8%9Ccookie)
+> 具体如何取 cookie 如何配置,可参考 [lxk0301 的获取京东Cookies教程](https://gitee.com/lxk0301/jd_scripts/blob/master/backUp/GetJdCookie.md)
